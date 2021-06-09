@@ -1,0 +1,22 @@
+[
+	{
+		"_id":100,
+		"sku":"abc123",
+		"descripcion":"Descripción en una línea."
+	},
+	{
+		"_id":101,
+		"sku":"abc789",
+		"descripcion":"Primera línea\nSegunda línea"	
+	},
+	{
+		"_id":102,
+		"sku":"xyz456",
+		"descripcion":"Espacios      línea"
+	},
+	{
+		"_id":103,
+		"sku":"xyz789",
+		"descripcion":"Multiple\nlinea descripción"
+	}
+]

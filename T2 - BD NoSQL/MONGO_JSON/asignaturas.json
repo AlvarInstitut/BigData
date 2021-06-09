@@ -1,0 +1,30 @@
+[
+	{
+		"nombre":"Matematicas",
+		"curso":"1º",
+		"alumnos":28,
+		"profesor":"Pedro",
+		"ingles": false
+	},
+	{
+		"nombre":"Sociales",
+		"curso":"2º",
+		"alumnos":20,
+		"profesor":"María",
+		"ingles":true
+	},
+	{
+		"nombre":"Naturales",
+		"curso":"2º",
+		"alumnos":25,
+		"profesor":"Juan",
+		"ingles": true
+	},
+	{
+		"nombre":"Educacion Fisica",
+		"curso":"3º",
+		"alumnos":23,
+		"profesor":"Laura",
+		"ingles": false
+	}
+]

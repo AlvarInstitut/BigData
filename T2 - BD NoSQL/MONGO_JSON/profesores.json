@@ -1,0 +1,20 @@
+[
+	{
+		"nombre":"Pablo",
+		"apellido":"López",
+		"edad":28,
+		"asignatura":"Matemáticas"
+	},
+	{
+		"nombre":"Pablo",
+		"apellido":"Gómez",
+		"edad":30,
+		"asignatura":"Lengua Castellana"
+	},
+	{
+		"nombre":"Juan",
+		"apellido":"Rodríguez",
+		"edad":40,
+		"asignatura":"Tecnología"
+	}
+]

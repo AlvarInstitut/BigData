@@ -1,0 +1,32 @@
+[
+	{
+		"_id" : 1,
+		"category":"comedor",
+		"presupuesto":400,
+		"gasto":450
+	},
+	{
+		"_id" : 3,
+		"category":"biblioteca",
+		"presupuesto":100,
+		"gasto":50	
+	},
+	{
+		"_id" : 4,
+		"category":"mantenimiento",
+		"presupuesto":500,
+		"gasto":300
+	},
+	{
+		"_id" : 5,
+		"category":"extraescolares",
+		"presupuesto":200,
+		"gasto":650
+	},
+	{
+		"_id" : 2,
+		"category":"transporte",
+		"presupuesto":100,
+		"gasto":150
+	}
+]

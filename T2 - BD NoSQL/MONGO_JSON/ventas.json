@@ -1,0 +1,23 @@
+[
+	{
+		"_id":1,
+		"item":"abc",
+		"precio":10,
+		"cuota":2, 
+		"fecha":{"$date":"2018-03-01T00:00:00Z"}
+	},
+	{
+		"_id":2,
+		"item":"jkl",
+		"precio":20,
+		"cuota":1, 
+		"fecha":{"$date":"2018-03-01T00:00:00Z"}
+	},
+	{
+		"_id":3,
+		"item":"xyz",
+		"precio":5,
+		"cuota":0, 
+		"fecha":{"$date":"2018-03-15T00:00:00Z"}
+	}
+]

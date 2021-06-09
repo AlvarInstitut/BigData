@@ -1,0 +1,41 @@
+[
+	{
+		"_id":1,
+		"sku": "abc123",
+		"etiquetas": ["escolar","libro", "bolsa", "audífonos", "cuaderno"],
+		"cantidad": [
+			{"tamano":"S", "num":10, "color": "azul"},
+			{"tamano":"M", "num":45, "color": "azul"},
+			{"tamano":"L", "num":100, "color": "verde"}
+			]
+	},
+	{
+		"_id":2,
+		"sku": "abc456",
+		"etiquetas": ["cuaderno","escolar", "libro"],
+		"cantidad": [
+			{"tamano":"6", "num":100, "color": "verde"},
+			{"tamano":"6", "num":50, "color": "azul"},
+			{"tamano":"8", "num":100, "color": "marrón"}
+			]
+	},
+	{
+		"_id":3,
+		"sku": "abc567",
+		"etiquetas": ["escolar","libro"],
+		"cantidad": [
+			{"tamano":"S", "num":10, "color": "azul"},
+			{"tamano":"M", "num":100, "color": "azul"},
+			{"tamano":"L", "num":100, "color": "verde"}
+			]
+	},
+	{
+		"_id":4,
+		"sku": "abc890",
+		"etiquetas": ["electronico","escolar"],
+		"cantidad": [
+			{"tamano":"M", "num":100, "color": "verde"}
+			]
+	}
+	
+]
